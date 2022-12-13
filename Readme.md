@@ -25,7 +25,7 @@ const credentials ={
  
  ```
  // Initialize the SDK
-const StanBicPayments = require('stanbic')(credentials);
+const StanBicPayments = require('stanbic_modules')(credentials);
 
 ```
 
