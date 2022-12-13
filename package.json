@@ -1,6 +1,6 @@
 {
   "name": "stanbic_modules",
-  "version": "1.0.1-0",
+  "version": "1.0.1",
   "description": "API PACKAGES FOR STANBIC",
   "main": "index.js",
   "scripts": {
